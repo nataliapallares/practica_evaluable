@@ -1,1 +1,7 @@
+<<<<<<<<<<<<<<<HEAD
+creo fichero nuevo4.txt
+añado linea a fichero nuevo4.txt
+========
+Nuevo archivo llamado nuevo4.txt
 Nuevo frase nuevo4.txt
+>>>>>>>> pruebas
